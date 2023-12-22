@@ -12,11 +12,19 @@
   justify-content: space-evenly;
 }
 
-.student {
+.challenge-4 {
   display: flex;
-  border: 1px solid blue;
-  flex: 1;
+  justify-content: space-evenly;
 }
+
+.student {
+border: 1px solid blue;
+  padding: 20px;
+  flex: 33%;
+}
+  
+}
+
 body {
   font-family: sans-serif;
   padding: 0 20px;
