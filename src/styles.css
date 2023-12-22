@@ -11,6 +11,12 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+.challenge-4 {
+  display: flex;
+  border: 1px solid blue;
+  flex: 1;
+}
 body {
   font-family: sans-serif;
   padding: 0 20px;
