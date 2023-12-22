@@ -7,6 +7,10 @@
   justify-content: right;
 }
 
+.challenge-3 {
+  display: flex;
+  justify-content: space-evenly;
+}
 body {
   font-family: sans-serif;
   padding: 0 20px;
