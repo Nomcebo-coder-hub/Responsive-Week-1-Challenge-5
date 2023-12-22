@@ -14,15 +14,13 @@
 
 .challenge-4 {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 .student {
-border: 1px solid blue;
+  border: 1px solid blue;
   padding: 20px;
-  flex: 33%;
-}
-  
+  flex: 1;
 }
 
 body {
