@@ -14,10 +14,9 @@
 
 .challenge-4 {
   display: flex;
-  justify-content: space-between;
 }
 
-.student {
+.challenge-4 div {
   border: 1px solid blue;
   padding: 20px;
   flex: 1;
